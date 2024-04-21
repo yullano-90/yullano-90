@@ -4,8 +4,8 @@
 >> * Sistemas de Informação **@ifma** <br />
 >> * Análise de Dados **@dsacademy** <br />
 > #### Interesses:
-> > R, Python e SQL para Data Analysis e Data Science <br />
-> > Javascript para Front-end de aplicações analíticas <br />
+> > * R, Python e SQL para Data Analysis e Data Science <br />
+> > * Javascript para Front-end de aplicações analíticas <br />
 
 <p align="center">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png">
