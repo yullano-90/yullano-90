@@ -3,6 +3,11 @@
 > #### Estudando:
 >> * Sistemas de Informação **@ifma** <br />
 >> * Análise de Dados **@dsacademy** <br />
+>
+> *Saint Seiya | Já sentiu o verdadeiro cosmo queimando dentro do seu coração? Eu já: **Dados E Software***
+>
+> ---
+<!-- 
 > #### Interesses:
 > > * R, Python e SQL para Data Analysis e Data Science <br />
 > > * Javascript para Front-end de aplicações analíticas <br />
@@ -16,8 +21,4 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
----
-
->
-> *Saint Seiya | Já sentiu o verdadeiro cosmo queimando dentro do seu coração? Eu já: **Dados E Software***
->
+-->
