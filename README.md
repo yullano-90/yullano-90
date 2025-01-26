@@ -4,7 +4,7 @@
 >> * Sistemas de Informação **@ifma** <br />
 >> * Análise de Dados **@dsacademy** <br />
 >
-> *Saint Seiya | Já sentiu o verdadeiro cosmo queimando dentro do seu coração? Eu já: **Dados E Software***
+> *Saint Seiya | Já sentiu o verdadeiro cosmo queimando dentro do seu coração? Eu já: **Software & Dados***
 >
 > ---
 <!-- 
